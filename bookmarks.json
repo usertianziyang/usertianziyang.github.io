@@ -1,0 +1,110 @@
+{
+  "title": "那些年用过的网站",
+  "subtitle": "一个温馨的网站收藏集合",
+  "categories": [
+    {
+      "name": "学习资源",
+      "color": "#4CAF50",
+      "bookmarks": [
+        {
+          "title": "百度",
+          "url": "https://www.baidu.com",
+          "description": "中文搜索引擎，学生时代的知识宝库"
+        },
+        {
+          "title": "W3School",
+          "url": "https://www.w3school.com.cn",
+          "description": "Web开发学习的好去处"
+        },
+        {
+          "title": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员的问答社区"
+        },
+        {
+          "title": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "适合初学者的技术教程网站"
+        }
+      ]
+    },
+    {
+      "name": "生活娱乐",
+      "color": "#2196F3",
+      "bookmarks": [
+        {
+          "title": "淘宝",
+          "url": "https://www.taobao.com",
+          "description": "购物天堂，应有尽有"
+        },
+        {
+          "title": "腾讯视频",
+          "url": "https://v.qq.com",
+          "description": "在线视频娱乐"
+        },
+        {
+          "title": "网易云音乐",
+          "url": "https://music.163.com",
+          "description": "音乐分享社区"
+        },
+        {
+          "title": "知乎",
+          "url": "https://www.zhihu.com",
+          "description": "知识分享社区"
+        }
+      ]
+    },
+    {
+      "name": "社交平台",
+      "color": "#FF9800",
+      "bookmarks": [
+        {
+          "title": "Facebook",
+          "url": "https://www.facebook.com",
+          "description": "全球社交网络平台"
+        },
+        {
+          "title": "微博",
+          "url": "https://www.weibo.com",
+          "description": "中文社交媒体平台"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com",
+          "description": "职业社交网络"
+        },
+        {
+          "title": "豆瓣",
+          "url": "https://www.douban.com",
+          "description": "文艺青年聚集地"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "color": "#9C27B0",
+      "bookmarks": [
+        {
+          "title": "GitHub",
+          "url": "https://www.github.com",
+          "description": "代码托管平台"
+        },
+        {
+          "title": "Microsoft Office",
+          "url": "https://www.office.com",
+          "description": "办公软件套件"
+        },
+        {
+          "title": "Adobe",
+          "url": "https://www.adobe.com",
+          "description": "创意设计软件"
+        },
+        {
+          "title": "Google翻译",
+          "url": "https://translate.google.com",
+          "description": "多语言翻译工具"
+        }
+      ]
+    }
+  ]
+}
